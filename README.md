@@ -49,33 +49,40 @@ OneNote
 
 
 ### 4，CONTACT FOR BUG REPORT AND DISCUSSION 错误报告和讨论的联系方式
-* If you found any bug(s) or need any help, please send email by imloafer@163.com or join QQ group 635390901 if you are Chinese.
+* If you found any bug(s) or need any help, please send email by imloafer@163.com or join QQ group 635390901.
 * 如果你发现任何bug或需要帮助，请发送邮件到imloafer@163.com 或加入QQ群635390901.
 ### 5, SCREENSHOTS
 * Program on running
+* 程序运行中
 
 ![Start on](https://github.com/imloafer/OneTool/raw/master/images/screenshot1.png)
 
 * Open epub file
+* 打开ePub文件
 
 ![Opening File](https://github.com/imloafer/OneTool/raw/master/images/screenshot3.png)
 
 * Ready to transfer
+* 准备发送
 
 ![Rready](https://github.com/imloafer/OneTool/raw/master/images/screenshot4.png)
 
 * Transferring
+* 发送中
 
 ![On Processing](https://github.com/imloafer/OneTool/raw/master/images/screenshot5.png)
 
 * Done
+* 完成
 
 ![Done](https://github.com/imloafer/OneTool/raw/master/images/screenshot6.png)
 
 * Original epub
+* 源ePub中显示
 
 ![Original epub](https://github.com/imloafer/OneTool/raw/master/images/screenshot2.png)
 
 * Show in OneNote
+* OneNote中显示
 
 ![In OneNote](https://github.com/imloafer/OneTool/raw/master/images/screenshot8.png)
