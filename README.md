@@ -1,6 +1,5 @@
  OneTool
-====
- ## <font color = #FF0000>IMPORTANT</font>
+ #### FIRST OF ALL
 
 * If you want to run this program, you need to work around this, run regedit.exe, and navigate to
 * 如果你要运行此程序，需要运行regedit.exe，然后找到如下键
