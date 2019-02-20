@@ -26,11 +26,11 @@
 * For single text file, it treats it as a book. This text file should be formatted as below, chapter title is in a separate line without whitespace at start, and each paragraph has at least one space indent, otherwise all file will be in one page. Between chapter title and its first paragraph should have no empty line, but between title and last paragraph of previous chapter can have empty line. Finally, title will be put on title area of OneNote page and content will be put on content area.
 * 对单一的文本文件，我们当它是一本书，此文本需要做以下格式化，章节标题在独自一行且不能以空格开头，文章的段落开头必须有至少一个空格的缩进，否则整个文本将或作为一个页面对待。章节标题和它的段落之间不能有空行，但和前一章节的段落之间有空行无所谓。最后，章节标题将放置在OneNote的标题栏中，内容放在在OneNote的内容栏中。
 
-Text
+**Text 文本**
 
 ![Single Text](https://github.com/imloafer/OneTool/raw/master/images/screenshot0.png)
 
-OneNote
+**Show in OneNote OneNote中显示**
 
 ![Show in OneNote](https://github.com/imloafer/OneTool/raw/master/images/screenshot9.png)
 * If one book was cut to many files by chapter,you can load all text files once a time, the first line of file will be title and remaining takes as content. It doesn't care whitespace or empty line.
@@ -56,6 +56,11 @@ OneNote
 * 程序运行中
 
 ![Start on](https://github.com/imloafer/OneTool/raw/master/images/screenshot1.png)
+
+* setup page
+* 设置页面
+
+![setup page](https://github.com/imloafer/OneTool/raw/master/images/setup_01.png)
 
 * Open epub file
 * 打开ePub文件
