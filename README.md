@@ -52,8 +52,8 @@
 * If you found any bug(s) or need any help, you can post here or send email by imloafer@163.com or join QQ group 635390901.
 * 如果你发现任何bug或需要帮助,可以发布在这里，或发送邮件到imloafer@163.com 或加入QQ群635390901.
 ### 5, SCREENSHOTS AND DEMONSTRATION 截屏和演示
-* Program on running
-* 程序运行中
+* Program demonstration
+* 程序演示
 
 ![Start on](https://github.com/imloafer/OneTool/raw/master/images/demo.gif)
 
