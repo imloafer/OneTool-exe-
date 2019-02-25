@@ -28,7 +28,7 @@
 
 **Text 文本**
 
-![Single Text](https://github.com/imloafer/OneTool/raw/master/images/screenshot0.png)
+	![Single Text](https://github.com/imloafer/OneTool/raw/master/images/screenshot0.png)
 
 **Show in OneNote OneNote中显示**
 
@@ -58,7 +58,7 @@
 
 ![Start on](https://github.com/imloafer/OneTool/raw/master/images/donate.png)
 
-### 5, SCREENSHOTS AND DEMONSTRATION 截屏和演示
+### 6, SCREENSHOTS AND DEMONSTRATION 截屏和演示
 * Program demonstration
 * 程序演示
 
