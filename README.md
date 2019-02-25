@@ -1,4 +1,4 @@
- ***READ FIRST***
+***READ FIRST***
 
 * If you want to run this program, you need to work around this, run regedit.exe, and navigate to
 * 如果你要运行此程序，需要运行regedit.exe，然后找到如下键
@@ -15,6 +15,11 @@
     |         |- FLAGDS
     |         |- HELPDIR
 ```
+
+***DOWNLOAD AND INSTALLATION***
+
+* You will find a zipped file named with onetoolXXXX.rar, download this file and unzip it on your own computer. Find the onetool.exe file and double click to run it.
+* 你将发现一个名为onetoolXXXX.rar的压缩文件，下载此文件到你的电脑，解压缩，找到onetool.exe文件，然后双击运行它。
 
 ### 1，WHAT IS THIS FOR？此程序的用途
 
