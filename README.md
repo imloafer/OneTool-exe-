@@ -28,7 +28,7 @@
 
 **Text 文本**
 
-	![Single Text](https://github.com/imloafer/OneTool/raw/master/images/screenshot0.png)
+    ![Single Text](https://github.com/imloafer/OneTool/raw/master/images/screenshot0.png)
 
 **Show in OneNote OneNote中显示**
 
