@@ -48,9 +48,16 @@
 * Windows 10 64位系统，安装OneNote 2016. 理论上Windows 7 64位系统，安装有OneNote 2016 应该也是可以的，还有OneNote 2013, OneNote 2019应该都是可以工作的。
 
 
-### 4，CONTACT AND DISCUSSION 错误报告和讨论的联系方式
+### 4，CONTACT AND DISCUSSION 错误报告和讨论
 * If you found any bug(s) or need any help, you can post here or send email by imloafer@163.com or join QQ group 635390901.
 * 如果你发现任何bug或需要帮助,可以发布在这里，或发送邮件到imloafer@163.com 或加入QQ群635390901.
+
+### 5，ABOUT DONATION 关于捐助
++ This software is definately free with full function, if you are willing to give author any donation as motivation it is very appreciated. You can find donation method from ABOUT menu's DONATE submenu. Shown as below:
+*  可以免费使用此软件的完整功能，如果你愿意给作者任意捐助作为激励将是非常感谢的。可以在软件的关于菜单中的捐助子菜单中找到捐助方法。如下图所示：
+
+![Start on](https://github.com/imloafer/OneTool/raw/master/images/donate.png)
+
 ### 5, SCREENSHOTS AND DEMONSTRATION 截屏和演示
 * Program demonstration
 * 程序演示
