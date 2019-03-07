@@ -53,7 +53,7 @@
 * Windows 10 64位系统，安装OneNote 2016. 理论上Windows 7 64位系统，安装有OneNote 2016 应该也是可以的，还有OneNote 2013, OneNote 2019应该都是可以工作的。
 
 
-### 4，CONTACT AND DISCUSSION 错误报告和讨论
+### 4，CONTACT AND DISCUSSION 联络和讨论
 * If you found any bug(s) or need any help, you can post here or send email by imloafer@163.com or join QQ group 635390901.
 * 如果你发现任何bug或需要帮助,可以发布在这里，或发送邮件到imloafer@163.com 或加入QQ群635390901.
 
