@@ -1,7 +1,7 @@
 ***READ FIRST***
 
 * If you want to run this program, you need to work around this, run regedit.exe, and navigate to
-* 如果你要运行此程序，需要运行regedit.exe，然后找到如下键
+* 如果你要运行此程序，需要运行regedit.exe，然后找到如下键：
 ```
     HKEY_CLASSES_ROOT\TypeLib\{0EA692EE-BB50-4E3C-AEF0-356D91732725}
 ```
